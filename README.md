@@ -1,2 +1,4 @@
 # datascience
-This is for study. Maybe later I'll think of a proper definition
+Python Study.
+
+Book: Data Science from Scratch - o'reilly book
